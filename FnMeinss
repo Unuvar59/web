@@ -1,0 +1,83 @@
+<!DOCTYPE html>
+<meta charset="utf-8">
+<html>
+    
+    <head>
+        <title>
+            Fn Meinss Company
+        </title>
+
+        <link rel = "icon" href = 
+        "https://lh3.googleusercontent.com/TNak4vMcSD3sxS2bPESrZXGR5nHWNXlkFg12TP2DOQnullolCpeC-VtChuL6HnZ6AmzAcUrGOa6ZY40FR8Zju66G65BkVoJ_FBpNgfb0EN9clpPypC0x_4rssShwxWJpYkpTl1gcRBkIRyLb-BHD77p72Eb6ZVaCg1cAURvwpripsyyMaa9I7IahrqOB-tKzHhvMX0mViBsRHLvv1Cpflj5dE2IWJXZk_3kpAAAA3GQYmD8C05eXXhsEPAO9FoQFC9fxi513IOXs-Bph7Aadpr_hEAfbq_RA3FMo5HHdNQr0jFCos4hZnKZjQeKl0434zw2FkeIgPuSJj1_g7u3V5MuE30AQQ1kDlRVlUS2YGOa831LGrC_L87EhGBaCdthnQZkDQgJZwrRiGaSQukqhpgl3ztbCSHiaexw4VHJAcMjI2Jy-K0YUo9Ggrp5sQMzT0e4d2j6OT9W7rBNvjkhzKwT87Ndqrr7LljB_vyKQ-oguytC1CxTvzBtDz55xH_a2TIquDiNvomr_VsEoiS7Fy02AFoiVyJhA07v3lP-pN7me3SaeUDoY-segb5vK-CgoWfqrPOzvwYz12nJwf3bk1LnAKysINot3Xgfepn2etDoPEfAvDlgkN96ZVV3vj22HRrGxGP-ctF6vGVADM4wuYS8Ya8Near8uD9JkHDbkANHJlNCyEsAOVzmORHAsaOBUoFg046feYS32gSxQ4xLaTbCJ4Q=s904-no?authuser=0" 
+                type = "image/x-icon">
+    </head>
+
+    <body>
+        <h1>Fn Meinss Şirketi</h1>
+
+            <p>
+                Fn Meinss Şirketi <q>23.06.2019</q> tarihinde henüz 17 yaşında olan <q><strong>Furkan ÜNÜVAR</strong></q>
+                tarafından kuruldu. O zamanlarda şirketin adı <q><strong>SFGS</strong></q> olarak anılmaktaydı. Sebebi ise 4 arkadaş tarafından kurulmuş
+                olmasıydı. Sonradan 3 kişi kalan Fn Meinss ekibi şirketin ismini şu anki ismi olan <q><strong>Fn Meinss</strong></q> olarak değiştirdi. 
+            </p>
+
+            <p>
+                Şirket 2 farklı departmandan oluşmaktadır. <a href = "#3dsatisdepartmani"> 3D Tasarım ve Satış departmanı </a>
+                ve <a href = "#Mobiluygdepartmani"> Mobil Uygulama Yapım Departmanı </a>. 3D satış departmanımız ilk ürününü <q>08.06.2019</q>
+            </p>
+
+            <p>
+                Fn Meinss Şirketi ilk kurulduğunda sadece <q><i>3D Tasarım ve Satış</i></q> 
+                departmanından oluşuyordu. Bu departman hayal edebildiğiniz her objeyi elinizde tutulabilir 
+                hale getirmeyi hedefliyor. <a href= #3dbaskıilkurun>İlk ürününü</a> <q>08.06.2019</q> tarihinde üretti. Bu üründen sonra bir çok farklı ürün ile üretimine devam etti.
+      
+            </p>
+
+            <p>
+                Mobil Uygulama Yapım bölümü ise <q>01.11.2020</q> tarihinde kuruldu. Bu departman sayesinde dilediğiniz uygulamaya sahip olabileceksiniz
+                <q>Neden? Nasıl?</q> gibi sorular olmadan hayal ettiğiniz her türlü uygulamayı telefonunuza indirebileceksiniz.
+                Size özel tasarımlar dışında da sahip olduğumuz uygulama havuzundan dilediğinizi kullanabileceksiniz. Bu bölüm de ilk uygulamasını
+                <q>05.11.2020</q> tarihinde <q>SaYTah</q> adıyla yayınladı. 
+            </p>
+
+
+        <h2>Departmanlar</h2>
+
+            <ul>
+                <li>3D Tasarım ve Satış</li>
+                <li>Mobil Uygulama Yapımı</li>
+            </ul>
+
+            <h3 id= 3dsatisdepartmani>3D Tasarım ve Satış</h3>
+                    
+                <h4>Bazı Ürünleri</h4>
+                    <p>
+                        <a href="https://www.instagram.com/p/CRElp-gpIjC/">
+                            <img src="https://db3pap002files.storage.live.com/y4m-DYXQvwHccuR1eUFhyXtu91BQV87Rrk89Y8C_l3pK5HNgOXVIidjYY1f_5tpTCfW0WAmt_v8BxV4T_8R3JxI2cbJrTUwe70tZ01AZ7lMZPxc3YtlKT2tMKh0H4pr51BPzDjFvUtGy-9AZZweH28NUkqvOaX8_d13OKJdGzEEMca1AxqxBHNpvqrlKYVahR9arOCAvF8H6ssJqTwz3xtZ6f-Qg13vsplKaadnR90NJCQ?encodeFailures=1&width=240&height=240">
+                        </a>
+
+                        <a href="https://www.instagram.com/p/CJo8f7qpiCO/">
+                            <img src="https://db3pap002files.storage.live.com/y4mVfM85DBP1A8mI8HzUZLYYYkP-MU8OUg_nY4RIQ1ZmUpLw8X74qnPhGi-cxwlhhqux6pYhWW0uFNCdngst4ycbTBEhW-x1AFdWdavxgsJvcMYAA5oZwV9nbqnspazjEjtWv6YRGSvW2H-m7TYbETA99oZ0pjZT2vVhCxGW5LLePX1tpmtjjXBXQkT5FjhFQsSxVoCFs9_nOmWQ13y1-UwzKG1kr5iVEO9so-XUji4EU0?encodeFailures=1&width=240&height=240">
+                        </a>
+                        <a href="https://www.instagram.com/p/CQoG9fZpBHJ/">
+                            <img src="https://db3pap002files.storage.live.com/y4mrRot6JPgZ0WiwcDEi5y1n8M5sAn7X6WsnjrnhFa2Mfwtetbk2qbA56s37fMXxAsw1Uf6DtCgf5ZMCznHAlU21pb2lNSiGbb0ncU9xang7k-uPzjq3qqxLNG6MJXKyb6fNjjKUpq3ZM1HvX4v27jmyy3MiSRXqbekc8j-SJfDqjVMHsm4lN3lWO9VHRW0qi92KE8YUaq5dujhzujDK9rPOe9bVmt3MZF4CQRYrD1nD0E?encodeFailures=1&width=240&height=240">
+                        </a>
+                    </p>
+
+                <h4>İlk Ürün</h4>    
+                    <p>
+                        <img id=3dbaskıilkurun src = "https://db3pap002files.storage.live.com/y4p3dieS8JsCBLFUD-rH4Mwm6GP3jPmL8fw-G4Mzktm2xswFO6hKkrc_gV0P-Lj8d12cyBxhqQNCts-vVytMgVwYJj3_nAgyf4Bk-Ze2muH-liwCTMGNJZnJJ7BJvnulyPXCpofowmQ0jvGB5gwGFggAbZPC7xIoWCennyPk7rjs9abJP1xIyHy15O3O0hGdHWLJwaUfNFwkqSVsettfQNrkn94a3ll0G-xRKRytf6clHI/WhatsApp%20Image%202021-01-21%20at%2000.54.07.jpeg?psid=1&width=381&height=846">
+                    </p>
+
+                <h4>İletişim</h4>
+                    <a href="https://www.instagram.com/3dyazici_/">
+                        <img src = "https://cdn-icons-png.flaticon.com/512/87/87390.png" width="40px",height="40px">
+                    </a>
+                    <a href="mailto:3dyazici.frkn@gmail.com" >
+                        <img src = "https://image.flaticon.com/icons/png/512/95/95627.png" width="40px",height="40px">
+                    </a>
+                
+            <h3 id= Mobiluygdepartmani>Mobil Uygulama Yapımı</h3>
+
+    </body>
+</html>
